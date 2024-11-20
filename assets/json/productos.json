@@ -1,0 +1,47 @@
+[   
+    {
+        "nombre": "Llavero Kuromi",
+        "precio": "7.5",
+        "imagen": "https://m.media-amazon.com/images/I/71rs5AwhYOL._AC_SL1500_.jpg"
+    },
+    {
+        "nombre": "Dije Dr. Who",
+        "precio": "15.8",
+        "imagen": "https://m.media-amazon.com/images/I/71sknNC7KbL._SL1500_.jpg"
+    },
+    {
+        "nombre": "Super Mario Odyssey",
+        "precio": "10.5",
+        "imagen": "https://m.media-amazon.com/images/I/91SF0Tzmv4L._SL1500_.jpg"
+    },
+    {
+        "nombre": "Electronic Specialties TMX-589",
+        "precio": "8.5",
+        "imagen": "https://m.media-amazon.com/images/I/81C23d5fSmL._AC_SL1500_.jpg"
+    },
+    {
+        "nombre": "PlayStation 5",
+        "precio": "40",
+        "imagen": "https://nafarimport.com/wp-content/uploads/2024/03/26-productos-falabella_pg-nafar-26.png"
+    },
+    {
+        "nombre": "Xbox Series X",
+        "precio": "50,9",
+        "imagen": "https://exitocol.vtexassets.com/arquivos/ids/7234186/consola-xbox-series-x-1tb-microsoft.jpg?v=637532554326130000"
+    },
+    {
+        "nombre": "Nintendo",
+        "precio": "55,9",
+        "imagen": "https://i0.wp.com/portatilshoprd.com/wp-content/uploads/2022/01/s-l1600-2.png?fit=673%2C862&ssl=1"
+    },
+    {
+        "nombre": "Controlador DualSense para PS5",
+        "precio": "250000",
+        "imagen": "https://cosonyb2c.vtexassets.com/arquivos/ids/345373-800-800?v=637363940945300000&width=800&height=800&aspect=true"
+    },
+    {
+        "nombre": "Controlador Xbox Wireless",
+        "precio": "275000",
+        "imagen": "https://exitocol.vtexassets.com/arquivos/ids/9022410/control-xbox-inalambrico-carbon-black-para-xbox-one-series-x-y-s.jpg?v=637620663883100000"
+    }
+]
